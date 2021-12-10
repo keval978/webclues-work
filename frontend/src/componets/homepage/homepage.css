@@ -1,0 +1,19 @@
+.homepage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50wh;
+    height: 50vh;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px 60px;
+    box-shadow: 0 0 15px 5px grey;
+}
+
+.butten {
+    background-color: blue;
+    color: white;
+    padding: 13px 23px;
+    border-radius: 17px;
+}

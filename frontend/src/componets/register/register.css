@@ -1,0 +1,22 @@
+.register {
+    width: 400px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 2px;
+}
+
+.register>.button {
+    width: 100%;
+    background-color: blue;
+    margin-top: 14px;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+}
+
+.register>input {
+    padding: 10px 38px;
+    margin-top: 5px;
+}
